@@ -56,5 +56,5 @@ jobs:
         with:
           app-name: 'happywebapp'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_6BBE50D082E3431AAFE00A2CB0B70564 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_C8DAABEB70D641E3A9B819E488600159 }}
           package: .
